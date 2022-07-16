@@ -9,13 +9,15 @@
 
 ## Results:
 
-The image below will display the data accumulated throughout the analysis with each city type.
+The image below displays the data accumulated throughout the analysis with each city type.
 
-![Data_Frame_city_type](path/to/Data_Frame_city_type.png)
+![Data_Frame_city_type](https://github.com/wendienyd/PyBer_Analysis/blob/main/Analysis/Data_Frame_city_type.png)
 
 From the data provided we can see that Urban cities are most busiest likely because it's more populated while the Rural cities are making more for average fare per ride but has a slower pace in gathering momentun.
 
-Another visualization is the line chart for total fare by city type: ![PyBer_fare_summary](path/to/PyBer_fare_summary.png)
+Another visualization is the line chart for total fare by city type:
+
+![PyBer_fare_summary](https://github.com/wendienyd/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 ## Summary:
 
